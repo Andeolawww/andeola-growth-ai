@@ -1,0 +1,6 @@
+{
+  "name": "Andeola Growth AI",
+  "description": "AI-powered lead discovery and outreach platform to analyze your business, generate ICPs, score prospects, and launch personalized campaigns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
